@@ -51,6 +51,7 @@ Start adding your names here:
 
 ### Akanksha
 - I am a CSE undergrad and an Android Developer.
+- Loves to code.
 -[![github-alt][github-img]](https://github.com/AkankshaJolly)
 
 ### Akshay N Shaju
